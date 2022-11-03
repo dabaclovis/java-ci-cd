@@ -25,12 +25,10 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
-    <!-- depend -->
-    <dependency>
-  <groupId>com.yodo1.mas.mediation</groupId>
-  <artifactId>unityads</artifactId>
-  <version>4.7.7</version>
-  <type>aar</type>
+  <dependency>
+  <groupId>com.ibeetl</groupId>
+  <artifactId>mysql</artifactId>
+  <version>3.19.3-RELEASE</version>
 </dependency>
   </dependencies>
 
