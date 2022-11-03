@@ -30,6 +30,12 @@
   <artifactId>mysql</artifactId>
   <version>3.19.3-RELEASE</version>
 </dependency>
+<!-- docker -->
+<dependency>
+  <groupId>no.priv.bang.oldalbum</groupId>
+  <artifactId>docker</artifactId>
+  <version>1.8.6</version>
+</dependency>
   </dependencies>
 
   <build>
